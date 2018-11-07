@@ -1,5 +1,6 @@
-# Parts Logger
-#### Author: Drake Bell
+Parts Logger
+Author: Drake Bell
+
 To run this program...
 1) 	Within a terminal navigate the folder 'Parts_Logger'
 		cd /path/to/Parts_Logger
